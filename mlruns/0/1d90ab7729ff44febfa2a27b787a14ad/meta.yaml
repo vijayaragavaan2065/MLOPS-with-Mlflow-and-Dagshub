@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/ML%20flow/mlruns/0/1d90ab7729ff44febfa2a27b787a14ad/artifacts
+end_time: 1744306695614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d90ab7729ff44febfa2a27b787a14ad
+run_name: hilarious-lark-407
+run_uuid: 1d90ab7729ff44febfa2a27b787a14ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744306693341
+status: 3
+tags: []
+user_id: apple

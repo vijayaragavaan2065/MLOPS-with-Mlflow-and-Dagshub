@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/apple/ML%20flow/mlruns/0/2dc39ea548ee484aae6e08bd2cc6b6e7/artifacts
+end_time: 1744305627389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dc39ea548ee484aae6e08bd2cc6b6e7
+run_name: rogue-auk-973
+run_uuid: 2dc39ea548ee484aae6e08bd2cc6b6e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744305625604
+status: 3
+tags: []
+user_id: apple
