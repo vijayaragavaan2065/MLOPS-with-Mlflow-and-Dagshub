@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+mlflow-env/
+
+# Environment variable files
+.env
+.env.*
+
+# Mac system files
+.DS_Store
+
+# Logs and metadata
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# ML-related files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.ckpt
+*.tflite
+
+# SQLite databases
+*.sqlite
+*.db
+
+# Pyrebase & Firebase cache
+.firebase/
+.pyrebase/
+
+# Temporary files
+*.tmp
+*.bak
+
